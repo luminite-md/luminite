@@ -17,6 +17,12 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.10.0-17A167?labelColor=e6f7f0">
 </p>
 
+<p align="center">
+  <a href="#-what-problems-does-it-solve">Problems It Solves</a> •
+  <a href="#-core-features">Core Features</a> •
+  <a href="#-quick-start">Quick Start</a>
+</p>
+
 # ✦ Luminite
 
 **AI-Native Immersive Knowledge Workspace**
@@ -97,3 +103,28 @@ Complex questions spanning multiple documents need depth — not surface-level s
 ### 🧩 Targeted Chunking & Interface Degradation
 
 > Customized extraction per data source (e.g., Notion block-level API adaptation). Six-level recursive semantic slicing preserves document context coherence and section topology.
+
+---
+
+## 🚀 Quick Start
+
+### 1. Download & Install
+
+- Visit the [official website](https://luminite.md) to download the latest version for macOS.
+- Drag `Luminite.app` into your **Applications** folder.
+
+### 2. Initial Setup
+
+1. Launch Luminite and complete the onboarding guide.
+2. Configure your LLM provider (use preset APIs or bring your own key).
+3. Connect data sources — local folders, Notion, Feishu, Apple Notes, etc.
+
+### 3. Start Using
+
+- **Ask questions**: Open the conversation panel and query across all your connected knowledge.
+- **Ingest documents**: Drop PDFs, Markdown, Word, or PPT files into Luminite — they'll be indexed automatically.
+- **Save insights**: One-click persist any conversation insight back into your local knowledge base.
+
+### 4. MCP Integration (Optional)
+
+Enable the built-in MCP Server to let external AI tools (e.g., Claude, Cursor) access your local knowledge network directly.
